@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "identifier": "NoonTranDpi.com",
+  "name": "MENU H4CK FREE FIRE",
+  "description": "Zalo:070.3378.556 Tele @noontranvn",
+  "accentColor": "#008080",
+  "icon": "assets/icon.png",
+  "packages": [
+    {
+      "identifier": "aimbot",
+      "name": "FFM MENU ANTIBAN",
+      "author": "NoonTranDpi",
+      "version": "1.0.0",
+      "summary": "NoonTranDpi • H4CK IOS",
+      "description": " Zalo:070.3378.556 Tele @noontranvn ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "NoonTranDpi"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmesp.3105",
+      "sha256": "3fdc9c082f76400f81ab938697eef23ecadc2c8cf5c6299cf6b960cc6dca1c47",
+      "size": 210771,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "NoonTran"
+    },
+    {
+      "identifier": "aimbot2",
+      "name": "FFTH MENU ANTIBAN",
+      "author": "NoonTranDpi",
+      "version": "1.0.0",
+      "summary": "NoonTranDpi • H4CK IOS",
+      "description": "Zalo:070.3378.556 Tele @noontranvn ",
+      "category": "NoonTranDpi",
+      "tags": [
+        "Game",
+        "NoonTranDpi"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthesp.3105",
+      "sha256": "539fc2a5c6eb548e189545374e753c1be73419eea087f84f583f49fe0e128099",
+      "size": 210781,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8258.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "NoonTran"
+    }
+  ]
+}
